@@ -9,7 +9,9 @@ Second Version
 
 https://public.tableau.com/profile/john.ngo#!/vizhome/titanicVersion2/Story1?publish=yes
 
-X Version
+Final Version
+
+https://public.tableau.com/profile/john.ngo#!/vizhome/titanicFinalVersion/TitanicStory?publish=yes
 
 ## Summary
 -----------
@@ -56,17 +58,18 @@ What do you notice in the visualization?
 I see a big improvement over your first version. The relationship between survivorship and the factors are much clearer.
 
 What questions do you have about the data?
-N/A
+Some of data is unclear for example, passenger clase
 
 What relationships do you notice?
-
+The relationship earlier in the story board was clear. As the story board progress,
+it was challenging to see the relationship.
 
 What do you think is the main takeaway from this visualization?
 To gain insight into the relationship between survivorship and a list of factors.
 
 Is there something you don’t understand in the graphic?
 
-I think the overall message you're trying to convey is clear, however, with 
+I think the overall message you're trying to convey is better, however, with 
 consistent formatting, I think it will enhance your overall project. 
 
 
